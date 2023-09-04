@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/The_Madras_App/static/js/main.74e1d5f5.chunk.js",
+    "main.js.map": "/The_Madras_App/static/js/main.74e1d5f5.chunk.js.map",
+    "runtime-main.js": "/The_Madras_App/static/js/runtime-main.e72f850c.js",
+    "runtime-main.js.map": "/The_Madras_App/static/js/runtime-main.e72f850c.js.map",
+    "static/js/2.f083c6dd.chunk.js": "/The_Madras_App/static/js/2.f083c6dd.chunk.js",
+    "static/js/2.f083c6dd.chunk.js.map": "/The_Madras_App/static/js/2.f083c6dd.chunk.js.map",
+    "index.html": "/The_Madras_App/index.html",
+    "precache-manifest.e73ee6424ca6d5878124e36615d517ca.js": "/The_Madras_App/precache-manifest.e73ee6424ca6d5878124e36615d517ca.js",
+    "service-worker.js": "/The_Madras_App/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e72f850c.js",
+    "static/js/2.f083c6dd.chunk.js",
+    "static/js/main.74e1d5f5.chunk.js"
+  ]
+}
